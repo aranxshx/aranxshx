@@ -1,6 +1,5 @@
 ## Hi there 👋
-## I am Andrew, an aspiring data scientist, and full stack developer! 🧑🏻‍💻
-## I also want to do game development as my side quest. 🖼️
+## I am Andrew, an aspiring game developer! 🧑🏻‍💻
 
 ## I study/learn/make music also! As this is essential in being a game developer. 🎹
 ## I am currently making a web based portfolio using github pages. 🖥️

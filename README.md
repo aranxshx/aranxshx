@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=%3E+building+WattzUp+%E2%80%94+3D+energy+sim+in+Unity;%3E+dev%27ing+Colorway+%E2%80%94+daily+photo+PWA;%3E+writing+OSTs+for+games+that+don%27t+exist+yet;%3E+always+open+to+collabs+%2F%2F+ping+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=%3E+building+in.fm+%E2%80%94+music+scrobbler+for+spotify;%3E+dev%27ing+Colorway+%E2%80%94+daily+photo+PWA;%3E+writing+OSTs+for+games+that+don%27t+exist+yet;%3E+always+open+to+collabs+%2F%2F+ping+me)](https://git.io/typing-svg)
 
 </div>
 
@@ -56,7 +56,7 @@
 
 | &nbsp; | PROJECT | STACK | STATUS |
 |:---:|---|---|:---:|
-| 🔋 | **WattzUp** — 3D first-person energy management sim | Unity · URP · C# | ![](https://img.shields.io/badge/-ACTIVE-7c3aed?style=flat-square&labelColor=0d0d1a) |
+| 🎵 | **in.fm** — music scrobbler for Spotify | Next.js · Supabase · Spotify API | ![](https://img.shields.io/badge/-ACTIVE-7c3aed?style=flat-square&labelColor=0d0d1a) |
 | 🎨 | **Colorway** — daily color photo challenge PWA | Next.js 14 · Supabase · Vercel | ![](https://img.shields.io/badge/-IN%20DEV-6d28d9?style=flat-square&labelColor=0d0d1a) |
 | 🎵 | **Original OSTs** — scores for imaginary worlds | BandLab · DAW | ![](https://img.shields.io/badge/-ALWAYS-a78bfa?style=flat-square&labelColor=0d0d1a) |
 
